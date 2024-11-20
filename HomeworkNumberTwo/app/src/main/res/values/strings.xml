@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HomeworkNumberTwo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list">Список</string>
+    <string name="grid">Сетка</string>
+    <string name="club_name">Название клуба</string>
+    <string name="id">ID</string>
+    <string name="title">Заголовок</string>
+    <string name="back">Назад</string>
+    <string name="text">Текст</string>
+    <string name="to_add_clubs">Добавить клубы</string>
+    <string name="to_delete_clubs">Удалить клубы</string>
+    <string name="to_add_one_club">Добавить один клуб</string>
+    <string name="to_delete_one_club">Удалить один клуб</string>
+    <string name="count_clubs">Количество клубов</string>
+    <string name="opc">Опц.часть</string>
+</resources>
