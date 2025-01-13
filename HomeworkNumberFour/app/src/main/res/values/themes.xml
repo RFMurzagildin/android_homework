@@ -1,0 +1,22 @@
+<resources>
+    <style name="Theme.HomeworkNumberFour" parent="Theme.MaterialComponents.Light">
+    </style>
+
+    <style name="Theme.Themes_notifications.Red" parent="Theme.HomeworkNumberFour">
+        <item name="android:statusBarColor">@color/red_darker</item>
+        <item name="colorPrimary">@color/red_color</item>
+        <item name="colorPrimaryVariant">@color/red_darker</item>
+    </style>
+
+    <style name="Theme.Themes_notifications.Green" parent="Theme.HomeworkNumberFour">
+        <item name="android:statusBarColor">@color/green_darker</item>
+        <item name="colorPrimary">@color/green_color</item>
+        <item name="colorPrimaryVariant">@color/green_darker</item>
+    </style>
+
+    <style name="Theme.Themes_notifications.Yellow" parent="Theme.HomeworkNumberFour">
+        <item name="android:statusBarColor">@color/yellow_darker</item>
+        <item name="colorPrimary">@color/yellow_color</item>
+        <item name="colorPrimaryVariant">@color/yellow_darker</item>
+    </style>
+</resources>

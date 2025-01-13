@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HomeworkNumberFour</string>
+    <string name="fill_in_all_the_text_fields">Fill in all the text fields</string>
+    <string name="the_notification_has_been_sent">The notification has been sent</string>
+    <string name="permission_to_send_notifications_has_been_received">Permission to send notifications has been received</string>
+    <string name="permission_to_send_notifications_is_denied">Permission to send notifications is denied</string>
+    <string name="launched_from_notification">The app was launched from a notification</string>
+    <string name="notification_title">Notification title</string>
+    <string name="notification_message">Notification message</string>
+    <string name="show_notification">Show notification</string>
+    <string name="reset_the_color">Reset the color</string>
+    <string-array name="priority_levels">
+        <item>Max</item>
+        <item>High</item>
+        <item>Default</item>
+        <item>Low</item>
+    </string-array>
+
+</resources>
