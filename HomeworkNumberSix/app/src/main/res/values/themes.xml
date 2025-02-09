@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Homework_number_six" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.Homework_number_six" parent="Base.Theme.Homework_number_six" />
+</resources>
