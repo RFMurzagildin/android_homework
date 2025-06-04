@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348985612024",
+    "project_id": "webbyskytodolist-6d8b6",
+    "storage_bucket": "webbyskytodolist-6d8b6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348985612024:android:272b26daab232d7b68cd0d",
+        "android_client_info": {
+          "package_name": "com.app.webbyskytodolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllrik1zvgItmCMTLBpmVW8N9yoAcTols"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

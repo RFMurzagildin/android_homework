@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebbySkyToDoList</string>
+    <string name="default_notification_channel_id">default channel</string>
+    <string name="feature_access_denied_no_auth">Доступ к фиче закрыт — вы не авторизованы</string>
+    <string name="feature_already_open">Вы уже на экране фичи</string>
+    <string name="feature_unavailable">Функционал временно недоступен</string>
+</resources>
