@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color1">#4575b4</color>
+    <color name="color2">#f46d43</color>
+    <color name="color3">#bababa</color>
+    <color name="color4">#fee090</color>
+    <color name="color5">#abd9e9</color>
+    <color name="color6">#66bd63</color>
+    <color name="color7">#d73027</color>
+    <color name="color8">#a6d96a</color>
+    <color name="color9">#fdae61</color>
+    <color name="color10">#7b6e3f</color>
+</resources>
